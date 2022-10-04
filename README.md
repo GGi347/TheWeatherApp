@@ -1,6 +1,13 @@
 # the_weather_app
 
-A new Flutter project.
+It is a weather app that has the following functionalities:
+
+1. Fetches user's current location and gets the weather for the current location.
+2. A total report of the weather for an entire week.
+3. An hour wise temperature details.
+4. Users can search for a location to get the weather of that location.
+5. An easy to use UI.
+
 
 ## Getting Started
 
